@@ -1,0 +1,23 @@
+.hero-dropdown {
+    min-width: 100% !important;
+}
+
+.hero-container{
+    margin-bottom: 24px;
+}
+
+.hero-image-container{
+    max-height: 100px !important;
+    max-width: 100%;
+}
+.hero-image{
+    max-width: 100% !important;
+    max-height: 68px !important;
+    width: auto;
+    /*max-width:;*/
+}
+
+.hero-dropdown-menu{
+    max-height: 150px;
+    overflow: auto;
+}

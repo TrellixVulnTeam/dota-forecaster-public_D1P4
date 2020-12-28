@@ -1,0 +1,157 @@
+[
+  {
+    "name": "Oracle",
+    "image": "Oracle_icon.png",
+    "code": 111
+  },
+  {
+    "name": "Wisp",
+    "image": "Io_icon.png",
+    "code": 91
+  },
+  {
+    "name": "Kunkka",
+    "image": "Kunkka_icon.png",
+    "code": 23
+  },
+  {
+    "name": "Spirit breaker",
+    "image": "Spirit_Breaker_icon.png",
+    "code": 71
+  },
+  {
+    "name": "Juggernaut",
+    "image": "Juggernaut_icon.png",
+    "code": 8
+  },
+  {
+    "name": "Keeper of the light",
+    "image": "Keeper_of_the_Light_icon.png",
+    "code": 90
+  },
+  {
+    "name": "Ursa",
+    "image": "Ursa_icon.png",
+    "code": 70
+  },
+  {
+    "name": "Sniper",
+    "image": "Sniper_icon.png",
+    "code": 35
+  },
+  {
+    "name": "Windrunner",
+    "image": "Windranger_icon.png",
+    "code": 21
+  },
+  {
+    "name": "Nyx assassin",
+    "image": "Nyx_Assassin_icon.png",
+    "code": 88
+  },
+  {
+    "name": "Viper",
+    "image": "Viper_icon.png",
+    "code": 47
+  },
+  {
+    "name": "Templar assassin",
+    "image": "Templar_Assassin_icon.png",
+    "code": 46
+  },
+  {
+    "name": "Tiny",
+    "image": "Tiny_icon.png",
+    "code": 19
+  },
+  {
+    "name": "Bounty hunter",
+    "image": "Bounty_Hunter_icon.png",
+    "code": 62
+  },
+  {
+    "name": "Spectre",
+    "image": "Spectre_icon.png",
+    "code": 67
+  },
+  {
+    "name": "Phantom lancer",
+    "image": "Phantom_Lancer_icon.png",
+    "code": 12
+  },
+  {
+    "name": "Venomancer",
+    "image": "Venomancer_icon.png",
+    "code": 40
+  },
+  {
+    "name": "Bristleback",
+    "image": "Bristleback_icon.png",
+    "code": 99
+  },
+  {
+    "name": "Sand king",
+    "image": "Sand_King_icon.png",
+    "code": 16
+  },
+  {
+    "name": "Troll warlord",
+    "image": "Troll_Warlord_icon.png",
+    "code": 95
+  },
+  {
+    "name": "Dark willow",
+    "image": "Dark_Willow_icon.png",
+    "code": 119
+  },
+  {
+    "name": "Jakiro",
+    "image": "Jakiro_icon.png",
+    "code": 64
+  },
+  {
+    "name": "Zuus",
+    "image": "Zeus_icon.png",
+    "code": 22
+  },
+  {
+    "name": "Crystal maiden",
+    "image": "Crystal_Maiden_icon.png",
+    "code": 5
+  },
+  {
+    "name": "Riki",
+    "image": "Riki_icon.png",
+    "code": 32
+  },
+  {
+    "name": "Tusk",
+    "image": "Tusk_icon.png",
+    "code": 100
+  },
+  {
+    "name": "Faceless void",
+    "image": "Faceless_Void_icon.png",
+    "code": 41
+  },
+  {
+    "name": "Dazzle",
+    "image": "Dazzle_icon.png",
+    "code": 50
+  },
+  {
+    "name": "Silencer",
+    "image": "Silencer_icon.png",
+    "code": 75
+  },
+  {
+    "name": "Phantom assassin",
+    "image": "Phantom_Assassin_icon.png",
+    "code": 44
+  },
+  {
+    "name": "Meepo",
+    "image": "Meepo_icon.png",
+    "code": 82
+  }
+]

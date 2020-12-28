@@ -1,0 +1,31 @@
+.App {
+    font-family: Roboto, monospace;
+    margin-bottom: 56px;
+}
+
+h2 {
+    margin-top: 25px !important;
+    margin-bottom: 25px !important;
+}
+
+h4 {
+    text-align: center !important;
+}
+
+
+dev.center {
+    text-align: center !important;
+}
+
+.security-key {
+    -webkit-text-security: square;
+    letter-spacing: 2px;
+}
+
+img {
+    max-height: 500px;
+}
+
+.app-container {
+    color: #e3e3e3;
+}
